@@ -50,7 +50,7 @@ def main():
         """ Example showcasing the usage of the image_analysis class and it's methods"""
         gray = processor.intensity(frame)  # Turning images to grayscale
 
-        lowered_brightness = processor.brightness(gray, -90)  # Turning down the brightness of the image
+        lowered_brightness = processor.brightness(gray, +30)  # Turning down the brightness of the image
 
         stretched_histogram = processor.histogram_stretching(lowered_brightness)  # Stretching the histogram of the image
 
