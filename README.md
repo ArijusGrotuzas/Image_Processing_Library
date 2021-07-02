@@ -24,5 +24,3 @@ The image_analysis class features algorithms for:
 - Calculating standard deviation (Array)
 
 The repository features a small test video, if you wish to use any other different video, simply add it to the directory folder of the project and channge the code so that OpenCV loads your file.
-
-This code is available for anyone to use for any educational purposes, no comercial use allowed.
