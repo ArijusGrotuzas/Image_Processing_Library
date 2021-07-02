@@ -4,7 +4,7 @@ The Main.py file contains example of using the image_analysis class, while the I
 The image_analysis class methods for image analysis. Some of these methods are so far only applicable only either to RGB or Grayscale images. 
 In addition, the precision of images that the methods support is 8 bpp. RAW image files are not supported by any of the methods, yet.
 This code is a work in progress and should be treated as such.
-
+<hr>
 The image_analysis class features algorithms for:
 - RGB to Grayscale conversion (RGB input)
 - Thresholding of the Grayscale images (Grayscale Input)
